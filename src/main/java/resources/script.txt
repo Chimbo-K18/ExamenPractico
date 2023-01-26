@@ -1,0 +1,15 @@
+Evidencia de api con Swagger:
+https://docs.google.com/document/d/1exrsGPn6mePYxtxftf2_p7CrSu7TYBYx0lGFD5MirNw/edit?usp=sharing
+
+
+Script de Insert
+
+INSERT INTO `empleado`(`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) 
+VALUES ('1','Ortega','10','Cuenca','2003-04-18','Joaquin','Ninguna','150','4131944');
+
+INSERT INTO `empleado`(`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) 
+VALUES ('2','Monzon','18','Guayaquil','2003-05-27','Moana','Falto 2 dias','450','4131944');
+
+
+INSERT INTO `empleado`(`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) 
+VALUES ('3','Mendieta','7','Quito','2003-04-19','Esteban','Ninguna','100','4131944');
